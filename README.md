@@ -37,12 +37,15 @@ web-scraping-mini-project/
 ## 🚀 Getting Started  
 
 ### 1️⃣ Clone the repository  
-```bash
+```
 git clone https://github.com/yourusername/web-scraping-mini-project.git
 cd web-scraping-mini-project
+```
 
 ### 2️⃣ Install dependencies
+```
 pip install requests beautifulsoup4 pandas
+```
 
 ### 3️⃣ Run the notebook
 Open web scraping mini project.ipynb in Jupyter Notebook or VS Code.
