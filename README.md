@@ -64,6 +64,6 @@ I enjoy working on **data science, web scraping, automation, and AI-powered tool
 - **Email:** [amanullahmohammed402@gmail.com](mailto:amanullahmohammed402@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/amanullah-mohammad/](https://www.linkedin.com/in/amanullah-mohammad/)  
 
-###⚠️ Disclaimer
+##⚠️ Disclaimer
 This project is for educational purposes only.
 Data belongs to the respective source (Wikipedia). Please follow the website's terms of use when scraping.
