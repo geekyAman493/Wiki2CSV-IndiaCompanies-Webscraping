@@ -51,22 +51,18 @@ pip install requests beautifulsoup4 pandas
 Open web scraping mini project.ipynb in Jupyter Notebook or VS Code.
 Run each cell in order.
 
+### 4️⃣ Output
+A file named Indian_companies.csv will be saved in your working directory.
+
 ## 👨‍💻 About Me  
 
 Hi! I’m **Mohammad Amanullah**, a passionate tech enthusiast who loves building projects that merge **technology with purpose**.  
 I enjoy working on **data science, web scraping, automation, and AI-powered tools**.  
- 
---
 
 ## 📬 Contact  
 
 - **Email:** [amanullahmohammed402@gmail.com](mailto:amanullahmohammed402@gmail.com)  
 - **LinkedIn:** [https://www.linkedin.com/in/amanullah-mohammad/](https://www.linkedin.com/in/amanullah-mohammad/)  
-
-
-
-### 4️⃣ Output
-A file named Indian_companies.csv will be saved in your working directory.
 
 ###⚠️ Disclaimer
 This project is for educational purposes only.
